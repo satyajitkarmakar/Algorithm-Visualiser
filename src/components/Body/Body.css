@@ -1,0 +1,32 @@
+.card--main {
+  position: relative;
+  height: 100%;
+}
+
+.card--text {
+  position: absolute;
+  bottom: 0;
+  width: 85%;
+  text-align: center;
+}
+
+.card--dark {
+  color: white;
+  background-color: #121212;
+}
+
+.card--light {
+  background-color: white;
+  color: black;
+}
+
+.round-button {
+  border-radius: 50px;
+  margin: 10px 10px;
+}
+
+.mode--toggles {
+  /* display: flex;
+      justify-content: right; */
+  text-align: center;
+}
